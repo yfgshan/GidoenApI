@@ -1,0 +1,7 @@
+C:\Users\gshan\source\repos\GideonWebApp\GideonWebApp\GideonWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\GideonWebApp.exe
+C:\Users\gshan\source\repos\GideonWebApp\GideonWebApp\GideonWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\gshan\source\repos\GideonWebApp\GideonWebApp\GideonWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\gshan\source\repos\GideonWebApp\GideonWebApp\GideonWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\GideonWebApp.dll
+C:\Users\gshan\source\repos\GideonWebApp\GideonWebApp\GideonWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\GideonWebApp.deps.json
+C:\Users\gshan\source\repos\GideonWebApp\GideonWebApp\GideonWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\GideonWebApp.runtimeconfig.json
+C:\Users\gshan\source\repos\GideonWebApp\GideonWebApp\GideonWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\GideonWebApp.pdb
