@@ -1,7 +1,7 @@
 ﻿(function () {
     'use strict';
 
-    angular.module('appAdmin.directives').directive('hlViewEditTaxConfig', HlViewEditTaxConfig);
+    angular.module('appAdmin.directives').directive('hlTestPageConfig', HlTestPageConfig);
 
     function HlViewEditTaxConfig() {
         return {
