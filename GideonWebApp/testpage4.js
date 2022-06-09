@@ -6,12 +6,12 @@
     function HlViewEditTaxConfig() {
         return {
             restrict: 'E',
-            templateUrl: 'script/viewEditTaxConfig/viewEditTaxConfig.html',
+            templateUrl: 'script/viewTestPageConfig/viewTestPageConfig.html',
             controller: ['$state', '_', '$stateParams', 'viewEditTaxConfigService',
                 function ($state, _, $stateParams, viewEditTaxConfigService) {
                     this.clearData = _.bind(function (sourceObj) {
                         for (var key in sourceObj) {
-                            if (key === 'submittedToIRSPriorYear' || key === "w9SStudentAccessURL") {
+                            if (key === "w9SStudentAccessURL") {
                                 continue;
                             }
                             sourceObj[key] = null;
